@@ -1,2 +1,21 @@
-# Sistema-de-Gerenciamento-de-Usu-rios---Node.js-SQLite
-Sistema de gerenciamento de usuários com funcionalidades CRUD (Create, Read, Update, Delete) usando Node.js, Express e SQLite. As senhas são criptografadas com bcrypt para maior segurança.
+# Sistema de Gerenciamento de Usuários
+
+## Descrição
+Um sistema simples de CRUD para gerenciamento de usuários usando Node.js e SQLite.
+
+## Tecnologias Utilizadas
+- **Node.js** com Express
+- **SQLite** para banco de dados
+- **bcrypt** para hash de senhas
+
+## Configuração do Projeto
+
+### 1. Pré-requisitos
+- Node.js instalado
+- npm (gerenciador de pacotes)
+
+### 2. Instalação
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-repositorio/user-management-system.git
+   cd user-management-system
